@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, mundo! 👋
 
-<!--
-**PriscyllaRocha/PriscyllaRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Priscylla L. Rocha Lins**
 
-Here are some ideas to get you started:
+- 🎓 Tenho Formação em Química, e Mestrado em Radiobiologia
+- 🔭 Atualmente sou professora em transição de carreira para a área de tecnologia e segurança digital.
+- 🌱 Estou me dedicando ao aprendizado em **Desenvolvimento Full Stack** e **CyberSecurity**.
+- 👯 Busco me tornar uma **especialista em cibersegurança** e **desenvolvedora de softwares**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato: 
+
+- 📫 Entre em contato comigo através do meu e-mail: priscyllarocha104@gmail.com
+
+### Curiosidades sobre mim:
+
+- 💪 Apaixonada por musculação e vida saudável.
+- 📚 Sempre buscando aprender algo novo!
+
+
