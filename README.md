@@ -1,13 +1,14 @@
-## Olá, mundo! 👋
+## Hello, World! 👋
 
-Meu nome é **Priscylla L. Rocha Lins**
+My name is **Priscylla Rocha**
 
-- 🎓 Tenho Formação em Química, e Mestrado em Radiobiologia
-- 🔭 Atualmente sou uma professora em transição de carreira para a área de tecnologia e segurança digital.
-- 🌱 Estou me dedicando ao aprendizado em **Desenvolvimento Full Stack** e **CyberSecurity**.
-- 👯 Busco me tornar uma **especialista em cibersegurança** e **desenvolvedora de softwares**.
+- 🎓 I hold a degree in Chemistry and a Master's in Radiobiology.
+- 🔭 I’m currently a teacher transitioning my career towards technology and cybersecurity.
+- 🌱 I’m dedicating myself to learning **Full Stack Development** and **Cybersecurity**.
+- 🚀 My goal is to become a **cybersecurity specialist** and **software developer**.
 
 ### Languages: 
+
 - Java
 - Python
   
@@ -17,15 +18,14 @@ Meu nome é **Priscylla L. Rocha Lins**
 - GitHub
 - Visual Studio Code
 
-### Contato: 
+### Contact: 
 
-- 📫 Entre em contato comigo através do meu e-mail: priscyllarocha104@gmail.com
-- 💼 Em breve: LinkedIn e portfólio pessoal (em construção!)
+- 📫 Feel free to reach me via email: priscyllarocha104@gmail.com
 
-### Curiosidades sobre mim:
+### Fun facts about me:
 
-- 💪 Curto muito **exercícios físicos**.
-- 🍿 Adoro **Ir ao cinema**.
-- 📚 Sempre buscando aprender algo novo!
+- 💪 I really enjoy physical exercise.
+- 🍿 I love going to the movies.
+- 📚 Always eager to learn something new!
 
 
