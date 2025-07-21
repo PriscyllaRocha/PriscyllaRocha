@@ -7,6 +7,16 @@ Meu nome é **Priscylla L. Rocha Lins**
 - 🌱 Estou me dedicando ao aprendizado em **Desenvolvimento Full Stack** e **CyberSecurity**.
 - 👯 Busco me tornar uma **especialista em cibersegurança** e **desenvolvedora de softwares**.
 
+### Languages: 
+- Java
+- Python
+  
+### Tools: 
+
+- Git 
+- GitHub
+- Visual Studio Code
+
 ### Contato: 
 
 - 📫 Entre em contato comigo através do meu e-mail: priscyllarocha104@gmail.com
