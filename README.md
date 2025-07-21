@@ -3,7 +3,7 @@
 My name is **Priscylla Rocha**
 
 - 🎓 I hold a degree in Chemistry and a Master's in Radiobiology.
-- 🔭 I’m currently a teacher transitioning my career towards technology and cybersecurity.
+- 🔭 I'm currently a teacher transitioning my career to technology and digital security.
 - 🌱 I’m dedicating myself to learning **Full Stack Development** and **Cybersecurity**.
 - 🚀 My goal is to become a **cybersecurity specialist** and **software developer**.
 
@@ -24,7 +24,7 @@ My name is **Priscylla Rocha**
 
 ### Fun facts about me:
 
-- 💪 I really enjoy physical exercise.
+- 💪 I enjoy physical exercise.
 - 🍿 I love going to the movies.
 - 📚 Always eager to learn something new!
 
