@@ -1,31 +1,29 @@
-## Hello, World! 👋
+## Olá, mundo! 👋
 
-My name is **Priscylla Rocha**
+Meu nome é **Priscylla Rocha**
 
-- 🎓 I hold a degree in Chemistry and a Master's in Radiobiology.
-- 🔭 I'm currently a teacher transitioning my career to technology and digital security.
-- 🌱 I’m dedicating myself to learning **Full Stack Development** and **Cybersecurity**.
-- 🚀 My goal is to become a **cybersecurity specialist** and **software developer**.
+- 🎓 Graduanda em Ciência da Computação, graduada em Química e Mestre em Tecnologias Nucleares.
+- 🔭 Sou uma professora em transição de carreira para a área de tecnologia.
+- 🌱 Estou me dedicando em aprender **Full Stack Development** e **Cybersecurity**.
+- 🚀 Meu objetivo é me tornar uma **espacialista em cybersecurity** e **desenvolvedora de software**.
 
-### Languages: 
-
-- Java
-- Python
-  
-### Tools: 
-
-- Git 
-- GitHub
-- Visual Studio Code
+### Habilidades Técnicas: 
+- Frontend: JavaScript, HTML, React;
+- Backend: Java, Python;
+- Frameworks: Spring Boot e Bootstrap;
+- Banco de Dados: MySQL;
+- Ferramentas: VSCode, Git e GitHub
+- Outras: Metodologias ágeis, BPF.
 
 ### Contact: 
 
-- 📫 Feel free to reach me via email: priscyllarocha104@gmail.com
+- 📫 Fale comigo através do email: priscyllarocha104@gmail.com
 
-### Fun facts about me:
+### Fatos sobre mim:
 
-- 💪 I enjoy physical exercise.
-- 🍿 I love going to the movies.
-- 📚 Always eager to learn something new!
+- 💪 Eu adoro me exercitar.
+- 🍿 Eu amo ir ao cinema assistir filmes.
+- ✈️ Meu maior sonho é viajar ao redor do mundo.
+- 📚 Sempre estou buscando aprender algo novo.
 
 
