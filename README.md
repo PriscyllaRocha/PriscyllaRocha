@@ -8,12 +8,12 @@ Meu nome é **Priscylla Rocha**
 - 🚀 Meu objetivo é me tornar uma **espacialista em cybersecurity** e **desenvolvedora de software**.
 
 ### Habilidades Técnicas: 
-- Frontend: JavaScript, HTML, React;
-- Backend: Java, Python;
-- Frameworks: Spring Boot e Bootstrap;
-- Banco de Dados: MySQL;
+- Frontend: JavaScript, HTML, React, Bootstrap
+- Backend: Java, Python
+- Frameworks: Spring Boot, Django
+- Banco de Dados: MySQL, PostgreSQL, H2 Database 
 - Ferramentas: VSCode, Git e GitHub
-- Outras: Metodologias ágeis, BPF.
+- Outras: Metodologias ágeis, BPF
 
 ### Contact: 
 
@@ -22,7 +22,7 @@ Meu nome é **Priscylla Rocha**
 ### Fatos sobre mim:
 
 - 💪 Eu adoro me exercitar.
-- 🍿 Eu amo ir ao cinema assistir filmes.
+- 🍿 Eu amo ir ao cinema.
 - ✈️ Meu maior sonho é viajar ao redor do mundo.
 - 📚 Sempre estou buscando aprender algo novo.
 
